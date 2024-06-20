@@ -1,0 +1,77 @@
+#myform{
+    display: none;
+}
+table tbody tr .imge img{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+     width:250px;
+     height: 200px;
+    
+ }
+ 
+
+ table{
+    width: 100%;
+    background-color: rgb(240, 222, 200);
+    margin: 20px;
+ }
+ table td{
+    padding:12px ;
+    text-align: center;
+ }
+
+ ul li {
+    list-style-type: none;
+    text-align: center;
+   display: flex;
+   justify-content: center;
+
+ }
+ 
+ .imge
+ {
+    text-align: center;
+   display: flex;
+   justify-content: center;
+   flex-direction: row;
+justify-content: space-evenly;
+align-items:right;
+margin-bottom: 20px;
+}
+ 
+
+ .hide
+ {
+    display: none;
+    
+ }
+ a{
+    background-color: rgb(240, 222, 200);
+   border-radius: 20px;
+   font-size: 18px;
+   color: black;
+   padding: 5px;
+   text-decoration: none;
+   margin: 15px;
+   cursor: pointer;
+
+ }
+ button{
+   cursor: pointer;
+   background-color: rgb(240, 222, 200);
+   font-size: 18px;
+   border-radius: 15px;
+
+ }
+ .aboutpage{
+   padding-right: 150px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }
+ #myform{   
+   margin: 100px;
+   font-size: 18px;
+   background-color:rgb(189, 188, 188);
+ }
+ 
